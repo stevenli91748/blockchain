@@ -1,7 +1,10 @@
 
 # 在线书籍
+* [自学区块链：原理 技术及应用](https://weread.qq.com/web/bookDetail/f1832a507193eee0f18ddfd)
 * [区块链技术及应用](https://weread.qq.com/web/reader/a8b3275071c2a7cfa8b002e)
 * [精通以太坊： 开发智能合约和去中心化应用](https://weread.qq.com/web/reader/c0532740718247c1c0545f7)
+* [零基础学区块链](https://weread.qq.com/web/bookDetail/35c3249071db9da035c6099)
+* [区块链编程](https://weread.qq.com/web/bookDetail/67532b2071db38b66750e3c)
 * [BlockChain for Business 2019](https://weread.qq.com/web/bookDetail/ecf32790722ffb6cecfa896)
 * [hands-on blockchain developer in 7 days](https://weread.qq.com/web/bookDetail/70232600722ffaec70272ac)
 * [Blockchain by example](https://weread.qq.com/web/bookDetail/4fd32540722ffbfc4fdf990)
