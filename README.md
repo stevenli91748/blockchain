@@ -2,6 +2,9 @@
 # 在线书籍
 * [区块链技术及应用](https://weread.qq.com/web/reader/a8b3275071c2a7cfa8b002e)
 * [精通以太坊： 开发智能合约和去中心化应用](https://weread.qq.com/web/reader/c0532740718247c1c0545f7)
+* [BlockChain for Business 2019](https://weread.qq.com/web/bookDetail/ecf32790722ffb6cecfa896)
+* [hands-on blockchain developer in 7 days](https://weread.qq.com/web/bookDetail/70232600722ffaec70272ac)
+* [Blockchain by example](https://weread.qq.com/web/bookDetail/4fd32540722ffbfc4fdf990)
 
 
 [区块链教程](https://www.yiibai.com/blockchain/)|
