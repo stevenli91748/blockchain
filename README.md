@@ -5,6 +5,8 @@
 * [精通以太坊： 开发智能合约和去中心化应用](https://weread.qq.com/web/reader/c0532740718247c1c0545f7)
 * [零基础学区块链](https://weread.qq.com/web/bookDetail/35c3249071db9da035c6099)
 * [区块链编程](https://weread.qq.com/web/bookDetail/67532b2071db38b66750e3c)
+* [精通区块链编程：加密货币原理、方法和应用开发（原书第2版）](https://weread.qq.com/web/reader/e0932c0071863d0ce099437)
+* [区块链开发实战：实用案例分析](https://weread.qq.com/web/reader/f9932260719ad5f3f99f9d3kc81322c012c81e728d9d180)
 * [BlockChain for Business 2019](https://weread.qq.com/web/bookDetail/ecf32790722ffb6cecfa896)
 * [hands-on blockchain developer in 7 days](https://weread.qq.com/web/bookDetail/70232600722ffaec70272ac)
 * [Blockchain by example](https://weread.qq.com/web/bookDetail/4fd32540722ffbfc4fdf990)
