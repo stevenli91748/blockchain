@@ -1,5 +1,6 @@
 
 # 在线书籍
+* [区块链技术指南](https://weread.qq.com/web/reader/49d325505cedc249d6154dbkc81322c012c81e728d9d180)
 * [自学区块链：原理 技术及应用](https://weread.qq.com/web/bookDetail/f1832a507193eee0f18ddfd)
 * [区块链技术及应用](https://weread.qq.com/web/reader/a8b3275071c2a7cfa8b002e)
 * [精通以太坊： 开发智能合约和去中心化应用](https://weread.qq.com/web/reader/c0532740718247c1c0545f7)
