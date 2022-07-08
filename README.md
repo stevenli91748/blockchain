@@ -21,7 +21,7 @@
 
 
 # 视频
-* [区块链技术与应用](https://www.youtube.com/playlist?list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V)
+* [区块链技术与应用---北京大学教程](https://www.youtube.com/playlist?list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V)
 * [尚硅谷_区块链项目：硅谷拍卖系统](https://www.bilibili.com/video/av75662996?from=search&seid=18272263271870877273)
 * [尚硅谷_区块链项目：硅谷投票系统](https://www.bilibili.com/video/av75662156?from=search&seid=14417099915885539219)
 * [尚硅谷_区块链以太坊核心技术](https://www.bilibili.com/video/av75649294/?spm_id_from=333.788.videocard.4)
