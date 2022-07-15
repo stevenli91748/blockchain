@@ -1,6 +1,7 @@
 
 # 在线书籍
 * [区块链技术指南](https://weread.qq.com/web/reader/49d325505cedc249d6154dbkc81322c012c81e728d9d180)
+* [区块链技术进阶与实战（第2版）](https://weread.qq.com/web/reader/e73320d0724b5d98e7327c6)
 * [自学区块链：原理 技术及应用](https://weread.qq.com/web/bookDetail/f1832a507193eee0f18ddfd)
 * [区块链技术及应用](https://weread.qq.com/web/reader/a8b3275071c2a7cfa8b002e)
 * [零基础学区块链](https://weread.qq.com/web/bookDetail/35c3249071db9da035c6099)
