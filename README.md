@@ -15,6 +15,10 @@
 ## 比特币
 ## 以太坊
 * [精通以太坊： 开发智能合约和去中心化应用](https://weread.qq.com/web/reader/c0532740718247c1c0545f7)
+* [以太坊技术详解与实战](https://weread.qq.com/web/reader/f5b323905e3975f5bb91f43)
+
+
+
 
 [区块链教程](https://www.yiibai.com/blockchain/)|
 ---|
